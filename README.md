@@ -2,6 +2,6 @@
 Serverless CRUD API with API Gateway, Lambda, and DynamoDB
 
 
-The full project description is here:
+The full project description available here:
 
 https://www.olegm.ml/project_api_lambda_dynamo_backup.html
